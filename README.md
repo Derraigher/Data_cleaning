@@ -128,11 +128,11 @@ The final dataset is stored in the `cleaned` directory.
 ## Project Structure
 
 ```text
-data_cleaning/
+Data_cleaning/
 │
-├── dirty_cafe_sales.csv
 ├── cleaned/
 │   └── cleaned_cafe_sales.csv
 │
-├── cafe_sales_cleaning.py
+├── cleaning_cafe.py
+├── dirty_cafe_sales.csv
 └── README.md
